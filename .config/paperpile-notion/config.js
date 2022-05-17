@@ -1,6 +1,6 @@
 const databases = {
   authors: {
-    databaseID: "df81368d5ba44958ad7a4da524bc2e2e", // or... "Authors"
+    databaseID: "fa8cddb417e24008b97a9d459d4c8f68", // or... "Authors"
     articleRef: "Articles",
   },
   articles: {
