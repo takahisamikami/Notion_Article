@@ -29,7 +29,6 @@ jobs:
       - name: "Retrieve old references"
         shell: "bash"
         run: |
-          git fetch
           git checkout HEAD~1
 
       - name: "Run `paperpile-notion` sync"
