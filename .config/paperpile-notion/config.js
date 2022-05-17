@@ -1,10 +1,10 @@
 const databases = {
   authors: {
-    databaseID: "1234567890abcdef1234567890abcdef", // or... "Authors"
+    databaseID: "df81368d5ba44958ad7a4da524bc2e2e", // or... "Authors"
     articleRef: "Articles",
   },
   articles: {
-    databaseID: "abcdef1234567890abcdef1234567890", // or... "Articles"
+    databaseID: "df81368d5ba44958ad7a4da524bc2e2e", // or... "Articles"
     authorRef: "Authors",
   },
 }
